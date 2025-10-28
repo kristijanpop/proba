@@ -7,8 +7,8 @@ int main(){
 
 
     intArray niz;
-
-    for(int i=0;i<10;i++){
+    int broj =10
+    for(int i=0;i<broj;i++){
     niz.apeend(i);}
     niz.~intArray();
 
